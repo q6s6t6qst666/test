@@ -1,1 +1,2 @@
 member2 v1
+member2 v2
